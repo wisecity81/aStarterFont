@@ -11,3 +11,5 @@ RoxygenNote: 7.3.2
 Depends:
     showtext,
     extrafont
+URL: https://github.com/wisecity81/aStarterFont
+BugReports: https://github.com/wisecity81/aStarterFont/issues
